@@ -13,6 +13,7 @@
 		14A544FE252C020A007B0F6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14A544FC252C020A007B0F6B /* Main.storyboard */; };
 		14A54500252C0214007B0F6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14A544FF252C0214007B0F6B /* Assets.xcassets */; };
 		14A54503252C0214007B0F6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14A54501252C0214007B0F6B /* LaunchScreen.storyboard */; };
+		14A5450C252C04C4007B0F6B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A5450B252C04C4007B0F6B /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		14A544FF252C0214007B0F6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14A54502252C0214007B0F6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14A54504252C0214007B0F6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14A5450B252C04C4007B0F6B /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				14A544FF252C0214007B0F6B /* Assets.xcassets */,
 				14A54501252C0214007B0F6B /* LaunchScreen.storyboard */,
 				14A54504252C0214007B0F6B /* Info.plist */,
+				14A5450B252C04C4007B0F6B /* ViewController2.swift */,
 			);
 			path = day6;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				14A544FB252C020A007B0F6B /* ViewController.swift in Sources */,
+				14A5450C252C04C4007B0F6B /* ViewController2.swift in Sources */,
 				14A544F7252C020A007B0F6B /* AppDelegate.swift in Sources */,
 				14A544F9252C020A007B0F6B /* SceneDelegate.swift in Sources */,
 			);
